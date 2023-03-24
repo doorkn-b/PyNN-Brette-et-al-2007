@@ -1,7 +1,9 @@
-# PyNN-Brette-et-al.-2007
-PyNN model of networks of spiking neurons: a review of tools and strategies [Brette et al. 2007](https://senselab.med.yale.edu/ModelDB/ShowModel?model=83319&file=/destexhe_benchmarks/PyNN/0.4/VAbenchmark_graphs.py#tabs-1)
-
+# PyNN implementation of Brette-et-al 2007
 The main goal is to provide a series of benchmark simulations of networks of spiking neurons, and demonstrate how these are implemented in the different simulators overviewed in the paper.
+
+
+
+PyNN model of networks of spiking neurons: a review of tools and strategies [Brette et al. 2007](https://senselab.med.yale.edu/ModelDB/ShowModel?model=83319&file=/destexhe_benchmarks/PyNN/0.4/VAbenchmark_graphs.py#tabs-1)
 
 The results should look like this
 
